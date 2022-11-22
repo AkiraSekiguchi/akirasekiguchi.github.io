@@ -1,0 +1,1 @@
+# akirasekiguchi.github.io
