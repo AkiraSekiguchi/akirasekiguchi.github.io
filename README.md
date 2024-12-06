@@ -1,10 +1,16 @@
 # akirasekiguchi.github.io
-**自己紹介ページ**
+# self-introduction👋
+I am a university student in Japan
+Development level is beginner.
+<br>Right now, my priority is to get my vendor certification.</br>
 
-```
-氏名：関口輝
-出身：新潟県
-趣味：サブカルチャー・旅行
-好物：ステーキ
+Development Experience:
+<br>Experience with chatbots on the front end and Creation of simple websites</br>
+# NOW TRAINING
+<img src="https://skillicons.dev/icons?i=html,css,js,react,googlecloud,aws,docker,linux" /> <br />
 
-```
+
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sqlite,github,vscode,docker" /> <br />
+
